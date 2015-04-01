@@ -98,7 +98,7 @@ authParams = generateAuthenticationParams()
 
 // Read about the Slideshare REST API at https://anypoint.mulesoft.com/apiplatform/popular/admin/#/dashboard/apis/7697/versions/7829/contracts
 
-API.createClient('client', '/apiplatform/repository/public/organizations/30/apis/7697/versions/7829/definition');
+API.createClient('client', '#REF_TAG_DEFENITION');
 
 ```
 
